@@ -26,5 +26,3 @@ tool versions are not what I intended and may contain backdoors. These tools are
 restricted. They are yours to the fullest and most obnoxious extent of anarchy. Here
 they exist as I intended. Ideas are welcome but the C++ is up to me, and me alone.
 These Authorship numbers can prove that any additional works are what I intended.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-github.com/compromise-evident
