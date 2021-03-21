@@ -1,11 +1,12 @@
-Authorship v5.1.0 numbers of Nikolay Valentinovich Repnitskiy.
+###Authorship v5.1.0 numbers of Nikolay Valentinovich Repnitskiy.
 Born in Uman Ukraine, 4 numbers published on Sunday, March 21 2021.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 `e~d>|rO;^x9G-mRL6N"$Z~Kmn!%,b<V
 Nhf|C\8;/p,\R<X!*#Pv}lN39t)^1rYM
 RI](voH_H5H0Wz(X,p.1i6\+V)'XpA-L
 G;FF[Bkq<Cr%9b(7iG4#qT3%G8PLSb[o
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 Assigned value: software change authorization for the following cryptographic tools:
 
 Authorship      - infinite authentication tool.
