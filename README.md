@@ -11,6 +11,7 @@ G;FF[Bkq<Cr%9b(7iG4#qT3%G8PLSb[o
 Assigned value: software change authorization for the following cryptographic tools:
 
 * Authorship      - infinite authentication tool.
+* AuthorshipFlex  - bring your own function to Authorship.
 * AuthorshipFemto - infinite authentication everywhere.
 * Allornothing    - decrypt a file if all key carriers are present.
 * Multiway        - file encryption without reversal shortcuts.
