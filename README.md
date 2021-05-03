@@ -10,14 +10,17 @@ G;FF[Bkq<Cr%9b(7iG4#qT3%G8PLSb[o
 
 Assigned value: software change authorization for the following cryptographic tools:
 
-* Authorship      - infinite authentication tool.
-* AuthorshipFlex  - bring your own function to Authorship.
-* AuthorshipFemto - infinite authentication everywhere.
-* Allornothing    - decrypt a file if all key carriers are present.
-* Multiway        - file encryption without reversal shortcuts.
-* OTP             - fast & plentiful One-time pad.
-* groupOTP        - fast & plentiful One-time pad for groups of any size.
-* schemeOTP       - fast One-time pad for all files up to 1MB.
+```text
+Authorship      - infinite authentication tool.
+AuthorshipFlex  - bring your own function to Authorship.
+AuthorshipFemto - infinite authentication everywhere.
+Allornothing    - decrypt a file if all key carriers are present.
+Multiway        - file encryption without reversal shortcuts.
+OTP             - fast & plentiful One-time pad.
+groupOTP        - fast & plentiful One-time pad for groups of any size.
+schemeOTP       - fast One-time pad for all files up to 1MB.
+RICIN           - Restricted Interface Computation Isolation Network.
+```
 
 As of today these tools are what I intended. And as they change, you may request the
 modification of the first number as many times as you need, and demand that a sha256
