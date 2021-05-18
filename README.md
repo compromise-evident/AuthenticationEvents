@@ -21,6 +21,7 @@ groupOTP        - fast & plentiful One-time pad for groups of any size.
 schemeOTP       - fast One-time pad for all files up to 1MB.
 RICIN           - transfer any file through sound between online and secure offline machines.
 RICINgauss      - transfer any file through magnetic induction between online and secure offline machines.
+RICINoptic      - transfer any file through light between online and secure offline machines.
 ```
 
 As of today these tools are what I intended. And as they change, you may request the
