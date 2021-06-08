@@ -1,3 +1,10 @@
+<!---
+Proof of intended changes and authorship of future works.
+Archive these numbers--modifiable by me--verifiable by anyone.
+-->
+
+
+
 ### Authorship v5.1.0 numbers of Nikolay Valentinovich Repnitskiy.
 Born in Uman Ukraine, 4 numbers published on Sunday, March 21 2021.
 
