@@ -33,7 +33,7 @@ RICINoptic      - transfer any file through light between online and secure offl
 
 As of today these tools are what I intended. And as they change, you may request the
 modification of the first number as many times as you need, and demand that a sha256
-hash of the new tool version is included as an Authorship message for each event.  
+hash of the new tool version is included as an Authorship message for each event.
 
 If I cannot provide the 613kB public file for each authentication event, then the
 tool versions are not what I intended and may contain backdoors. These tools are NOT
