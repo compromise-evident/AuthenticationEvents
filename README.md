@@ -5,7 +5,7 @@ Archive these numbers--modifiable by me--verifiable by anyone.
 
 
 
-### Authorship v5.1.0 numbers of Nikolay Valentinovich Repnitskiy.
+### Authorship v6.0.0 numbers of Nikolay Valentinovich Repnitskiy.
 Born in Uman Ukraine, 4 numbers published on Sunday, March 21 2021.
 
 ```
@@ -33,8 +33,9 @@ RICINoptic      - transfer any file through light between online and secure offl
 
 As of today these tools are what I intended. And as they change, you may request the
 modification of the first number as many times as you need, and demand that a sha256
-hash of the new tool version is included as an Authorship message for each event.
-   If I cannot provide the 613kB public file for each authentication event, then the
+hash of the new tool version is included as an Authorship message for each event.  
+
+If I cannot provide the 613kB public file for each authentication event, then the
 tool versions are not what I intended and may contain backdoors. These tools are NOT
 restricted. They are yours to the fullest and most obnoxious extent of anarchy. Here
 they exist as I intended. Ideas are welcome but the C++ is up to me, and me alone.
