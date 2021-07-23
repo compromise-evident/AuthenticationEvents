@@ -23,8 +23,7 @@ AuthorshipFlex  - bring your own function to Authorship.
 AuthorshipFemto - infinite authentication everywhere.
 Allornothing    - decrypt a file if all key carriers are present.
 Multiway        - file encryption without reversal shortcuts.
-OTP             - fast & plentiful One-time pad.
-groupOTP        - fast & plentiful One-time pad for groups of any size.
+groupOTP        - fast & plentiful One-time pad for 2 or groups of any size.
 schemeOTP       - fast One-time pad for all files up to 1MB.
 RICIN           - transfer any file through sound between online and secure offline machines.
 RICINgauss      - transfer any file through magnetic induction between online and secure offline machines.
